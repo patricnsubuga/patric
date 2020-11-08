@@ -1,0 +1,187 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png", MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6EliFm.png", MBC Max HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pIuJqYk.png", Movie Kingdom HD
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png", Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png", Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WjJ8MHC.png", Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png", MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzYqWhC.jpeg", Mix Hollywood
+http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hfia0wN.png", Wixlar
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", TRT World
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Bloomberg Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Cheddar
+https://live.chdrstatic.com/cheddar/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Tennis Channel+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Monarch TV
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Sony Movies
+http://51.52.156.22:8888/http/009
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", MTV Europe
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", ITV1 UK
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", News Max
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Bloomberg US
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Ditty TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Discovery Realtime
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Discovery Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Discovery Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qBdOZ1x.png", Dubai Sports 2
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1M4zMdC.png", Racing.com 
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg", Red Bull TV
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PITp6xA.jpg", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/26590/cheddar_business_440x330_NETWORK_LARGE_440_330.png", Cheddar
+https://live.chdrstatic.com/cheddar/primary/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/deutsche_welle_tv_de.png", DW
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNQKahI.png", Press TV
+https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/10/et-live1-e1541006731547.png", Entertainment Tonight
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png", France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png", RT America
+https://rt-usa.secure.footprint.net/1105.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png", Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png", TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lPyJhBN.png", UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png", Cbeebies
+http://51.52.156.22:8888/http/003
+
+#EXTINF:-1 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-kids.png?1212", GEM Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png", IBC Kids
+https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
+
+#EXTINF:0, BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
+
+#EXTINF:0, Voice of America 
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0, Nickelodeon
+http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
+#EXTINF:0, Colors
+http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
+#EXTINF:0, MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0, DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:0, EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:0, Horror 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1, National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:www.hlscat.com
+
+#EXTINF:-1, ITV2 UK
+http://51.52.156.22:8888/http/005?checkedby:www.hlscat.com
+
+#EXTINF:, Magic UK
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/&checkedby:www.hlscat.com
+
+#EXTINF:-1, NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8?checkedby:www.hlscat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png", HBO Asia
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eNPIQ9f.png", BBC News
+http://51.52.156.22:8888/http/004
+
+
+
+#EXTINF:-1, NTV Uganda
+https://youtu.be/kXMUUPRgllA
