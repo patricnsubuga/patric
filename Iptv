@@ -33,16 +33,16 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", CGTN
+#EXTINF:-1, CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", Arirang
+#EXTINF:-1, Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", Bloomberg 
+#EXTINF:-1, Bloomberg 
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", Cheddar
@@ -66,7 +66,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", Sony Movies
 http://51.52.156.22:8888/http/009
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", MTV Europe
+#EXTINF:-1, MTV Europe
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", ITV1 UK
@@ -75,7 +75,7 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", News Max
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", Bloomberg 
+#EXTINF:-1, Bloomberg 
 http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", Ditty TV
@@ -102,7 +102,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg", Red Bull TV
 https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PITp6xA.jpg", Al Jazeera International
+#EXTINF:-1, Al Jazeera International
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/26590/cheddar_business_440x330_NETWORK_LARGE_440_330.png", Cheddar
@@ -146,13 +146,13 @@ http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
 
 #EXTINF:0, Voice of America 
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:0, Nickelodeon
+#EXTINF:0, Nickelodeon hd
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:0, Colors
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
-#EXTINF:0, MTV
+#EXTINF:0, MTV Europe
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:0, DMAX
+#EXTINF:0, DMAX TR
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:0, EBS English
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
