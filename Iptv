@@ -75,7 +75,7 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", News Max
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", Bloomberg US
+#EXTINF:-1 tvg-logo="http://127.0.0.1/", Bloomberg 
 http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", Ditty TV
@@ -178,7 +178,7 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png", HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eNPIQ9f.png", BBC 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eNPIQ9f.png", BBC News 
 http://51.52.156.22:8888/http/004
 
 #EXTINF:-1, Bein Sport 1 HD 
@@ -229,7 +229,7 @@ https://vsd97.mycdn.me/hls/531854789280.m3u8/sig/13_M5oifFlY/expires/16049515992
 #EXTINF:-1, Setanta Sports Ukraine 
 https://sportbar.biz/lba/YTgyNjNmODczM2ZiMzA2ZWRkZDY4NDVlNThmOGEzYWQ=/g4/setantarus.m3u8?token=YTgyNjNmODczM2ZiMzA2ZWRkZDY4NDVlNThmOGEzYWQ=&id=N2ZlMWI3YWMzNjJmZmIxNGUyODk4MjNmY2JkNmMxMTg=&vip=1604859545&dip=NzU5ZjA5Yjg5MzBjODYzOTA1MTJkZjQ2NzE0NWNhMTA=&pip=YTU1N2Y2NjZhMTEzMTdiYWM1NWUyMmE3MTM0ODhhZjI=&hip=ZjVhYjg4ZmNhZTAxZTgyYzE2MTAxYTQyNDc4ZWFkMjE=
 
-#EXTINF:-1, Setanta Sport plus Ukraine
+#EXTINF:-1, Setanta Sport + Ukraine
 https://sportbar.biz/lba/NTM1OTJlMmU4MGFhNjc1ODI5ODJkOGI0MTAxOTI0MTg=/g3/seteurasiaplus.m3u8?token=NTM1OTJlMmU4MGFhNjc1ODI5ODJkOGI0MTAxOTI0MTg=&id=NTgyODAzY2U5YjRkODJhMTBjY2Q5NTkzMDgxZDZiOGI=&vip=1604895717&dip=NzAzOTI5OTFmNGZhYjE0MWFmNGIyYmZhOTk4ZGI3OWE=&pip=YTU1N2Y2NjZhMTEzMTdiYWM1NWUyMmE3MTM0ODhhZjI=&hip=ZjVhYjg4ZmNhZTAxZTgyYzE2MTAxYTQyNDc4ZWFkMjE=
 
 #EXTINF:-1, Football 1 Ukraine HD
