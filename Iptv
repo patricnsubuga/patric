@@ -27,13 +27,13 @@ http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfia0wN.png", Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlR9YhI.png" group-title="UAE", Dubai Racing
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FlR9YhI.png", Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo, CGTN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png", CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/arirang.png", Arirang
@@ -54,7 +54,7 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", Monarch TV
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", Filmrise Crime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png", Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pIuJqYk.png", Movie Kingdom
@@ -75,10 +75,14 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", ITV1 UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", News Max
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png, NewsMax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", Ditty TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png", Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p5rREUo.png", Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", Discovery Realtime
@@ -216,7 +220,7 @@ https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-1,  True Premier Football 2
 https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
 
-#EXTINF:-1, CMC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TbpsS0.png", CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
 
 #EXTINF:-1, NEWMAX BOX OFFICE TV HD
