@@ -45,7 +45,7 @@ https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bloomberg.png", Bloomberg 
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", Cheddar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nWjAjzy.png", Cheddar
 https://live.chdrstatic.com/cheddar/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", Tennis Channel+
@@ -178,7 +178,7 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eNPIQ9f.png", BBC News 
 http://51.52.156.22:8888/http/004
 
-#EXTINF:-1 tvg-log="https://epg.iptvx.one/icn/bein-sport-1.png", Bein Sport 1 HD 
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bein-sport-1.png", Bein Sport 1 HD 
 http://185.246.210.53:2200/EX/bein1hd-ar/index.m3u8?token=RED_rCZ7d4KQZqE3E8_qpTNMRA==,1605056813.1515923156&t=1&s=1&p=1&c=MA&r=65
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bein-sport-2.png", Bein Sport 2 HD
