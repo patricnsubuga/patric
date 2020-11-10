@@ -66,6 +66,9 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", Sony Movies
 http://51.52.156.22:8888/http/009
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png", Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
 #EXTINF:-1, MTV Europe
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
