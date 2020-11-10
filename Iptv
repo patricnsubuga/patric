@@ -75,8 +75,8 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", News Max
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1, Bloomberg 
-http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
@@ -182,37 +182,37 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 http://51.52.156.22:8888/http/004
 
 #EXTINF:-1, Bein Sport 1 HD 
-http://185.246.210.53:2200/EX/bein1hd-ar/index.m3u8?token=RED__WCMIb2etdx_oWNYAo9erA==,1604928018.1515923156&t=1&s=1&p=1&c=BR&r=65
+http://185.246.210.53:2200/EX/bein1hd-ar/index.m3u8?token=RED_rCZ7d4KQZqE3E8_qpTNMRA==,1605056813.1515923156&t=1&s=1&p=1&c=MA&r=65
 
 #EXTINF:-1, Bein Sport 2 HD
-http://185.246.210.54:2200/EX/bein2hd-ar/index.m3u8?token=RED_y8jEaPtbTi_D7AmTLtQgcQ==,1604927850.1515923156&t=1&s=1&p=1&c=BR&r=65
+http://185.246.210.54:2200/EX/bein2hd-ar/index.m3u8?token=RED_ffW8kYJAuilUzNN6gXzB5w==,1605056854.1515923156&t=1&s=1&p=1&c=MA&r=65
 
 #EXTINF:-1, Bein Sport 3 HD
-http://185.246.210.53:2200/EX/bein3hd-ar/index.m3u8?token=RED_ToS042y0A71qKxkj6IQAig==,1604927949.1515923156&t=1&s=1&p=1&c=BR&r=65
+http://185.246.210.53:2200/EX/bein3hd-ar/index.m3u8?token=RED_HWrOmJVAJkDNrzfuqDpHpw==,1605056877.1515923156&t=1&s=1&p=1&c=MA&r=65
 
 #EXTINF:-1, Bein Sport 4 HD
-http://185.93.2.153:2200/EX/bein4hd-ar/index.m3u8?token=RED_tAnvsX9yVf4X5Uw-zrT_-g==,1604921694.1515923156&t=1&s=1&p=1&c=BR&r=65
+http://185.93.2.153:2200/EX/bein4hd-ar/index.m3u8?token=RED_LzWQtV7zo5pxRoeRl3UAqw==,1605059324.1515923156&t=1&s=1&p=1&c=MA&r=65
 
 #EXTINF:-1, Bein Sport 5 HD
-http://89.187.169.203:2200/EX/bein5hd-ar/index.m3u8?token=RED_SaQ_70cfDoQY49eQVBXXDg==,1604928120.1515923156&t=1&s=1&p=1&c=BR&r=65
+http://89.187.169.203:2200/EX/bein5hd-ar/index.m3u8?token=RED_TdFUL9NhgpxzOyndjZnhlQ==,1605056952.1515923156&t=1&s=1&p=1&c=MA&r=65
 
 #EXTINF:-1, Bein Sport 6 HD
-http://185.59.222.171:2200/EX/bein6hd-ar/index.m3u8?token=RED_eQN7g_6qRRW8OAN4jcoNNQ==,1604932479.1515923156&t=1&s=1&p=1&c=BR&r=65
+http://185.59.222.171:2200/EX/bein6hd-ar/index.m3u8?token=RED_NOQ4koj5sZQrF2fD1ZFd8g==,1605056982.1515923156&t=1&s=1&p=1&c=MA&r=65
 
 #EXTINF:-1, Bein Sport 7 HD
-http://89.187.169.204:2200/EX/bein7hd-ar/index.m3u8?token=RED_EfLD3dMxX_U20hDopsqXHA==,1604932532.1515923156&t=1&s=1&p=1&c=BR&r=65
+http://89.187.169.204:2200/EX/bein7hd-ar/index.m3u8?token=RED_yRoT73a3Vc0NA8vbBGmo7g==,1605057028.1515923156&t=1&s=1&p=1&c=MA&r=65
 
 #EXTINF:-1, Bein Sport 8 HD
-http://89.187.169.203:2200/EX/bein8hd-ar/index.m3u8?token=RED_CMr95srlizVU4CEF7xECLQ==,1604932584.1515923156&t=1&s=1&p=1&c=BR&r=65
+http://89.187.169.203:2200/EX/bein8hd-ar/index.m3u8?token=RED_EAdJDGOMKq6QYZXc9pW8NQ==,1605057056.1515923156&t=1&s=1&p=1&c=MA&r=65
 
-#EXTINF:-1, SuperSport Premier League
-http://89.187.169.206:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/index.m3u8?token=RED_5RH17kCMGjOhRYZwtH6eIA==,1604928243.1515923156&t=1&s=1&p=1&c=BR&r=65
 
-#EXTINF:-1, SuperSport Blitz
-http://89.187.169.206:2200/AFR-EX/Supersport_Blitz_FHD-dstv/index.m3u8?token=RED_5YkhyQHb0vQW_rgt84MdbA==,1604931159.1515923156&t=1&s=1&p=1&c=BR&r=65
 
-#EXTINF:-1, SuperSport LaLiga
-http://185.246.210.54:2200/AFR-EX/SuperSport_LaLiga_FHD-dstv/index.m3u8?token=RED__vMamBDFFcek5jBPyLXYRg==,1604931298.1515923156&t=1&s=1&p=1&c=BR&r=65
+
+
+
+
+
+
 
 #EXTINF:-1, True Premier Football 1
 https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
@@ -226,23 +226,23 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m
 #EXTINF:-1, Newmax Box 
 https://vsd97.mycdn.me/hls/531854789280.m3u8/sig/13_M5oifFlY/expires/1604951599233/srcIp/41.75.190.44/clientType/0/srcAg/CHROME/mid/1291064647328/video.m3u8?p&quot;,&quot;hlsPlaybackMasterPlaylistUrl&quot;:&quot;https://vsd97.mycdn.me/hls/531854789280_offset_p.m3u8/sig/13_M5oifFlY/expires/1604951599233/srcIp/41.75.190.44/clientType/0/srcAg/CHROME/mid/1291064647328/video.m3u8
 
-#EXTINF:-1, Setanta Sports Ukraine 
-https://sportbar.biz/lba/YTgyNjNmODczM2ZiMzA2ZWRkZDY4NDVlNThmOGEzYWQ=/g4/setantarus.m3u8?token=YTgyNjNmODczM2ZiMzA2ZWRkZDY4NDVlNThmOGEzYWQ=&id=N2ZlMWI3YWMzNjJmZmIxNGUyODk4MjNmY2JkNmMxMTg=&vip=1604859545&dip=NzU5ZjA5Yjg5MzBjODYzOTA1MTJkZjQ2NzE0NWNhMTA=&pip=YTU1N2Y2NjZhMTEzMTdiYWM1NWUyMmE3MTM0ODhhZjI=&hip=ZjVhYjg4ZmNhZTAxZTgyYzE2MTAxYTQyNDc4ZWFkMjE=
 
-#EXTINF:-1, Setanta Sport + Ukraine
-https://sportbar.biz/lba/NTM1OTJlMmU4MGFhNjc1ODI5ODJkOGI0MTAxOTI0MTg=/g3/seteurasiaplus.m3u8?token=NTM1OTJlMmU4MGFhNjc1ODI5ODJkOGI0MTAxOTI0MTg=&id=NTgyODAzY2U5YjRkODJhMTBjY2Q5NTkzMDgxZDZiOGI=&vip=1604895717&dip=NzAzOTI5OTFmNGZhYjE0MWFmNGIyYmZhOTk4ZGI3OWE=&pip=YTU1N2Y2NjZhMTEzMTdiYWM1NWUyMmE3MTM0ODhhZjI=&hip=ZjVhYjg4ZmNhZTAxZTgyYzE2MTAxYTQyNDc4ZWFkMjE=
 
-#EXTINF:-1, Football 1 Ukraine HD
-https://sportbar.biz/lba/MDRmMjI5NWVmZDcwNjc5NTI5M2EwN2U1YWFjNjZiMTg=/g8/ukrfoot1.m3u8?token=MDRmMjI5NWVmZDcwNjc5NTI5M2EwN2U1YWFjNjZiMTg=&id=OGI0NWY4MDk4ODk0YzZhY2I0NDA4MTZjMWIyMzMyZTY=&vip=1604860259&dip=ZDFiMTE3MmVkYjFiMzM0NWJlN2Q5YzZmYzBhMDdkMzY=&pip=YTU1N2Y2NjZhMTEzMTdiYWM1NWUyMmE3MTM0ODhhZjI=&hip=ZjVhYjg4ZmNhZTAxZTgyYzE2MTAxYTQyNDc4ZWFkMjE=
 
-#EXTINF:-1, Football 2 Ukraine HD
-https://sportbar.biz/lba/NDQ0MmQzMDFhOWZhYjgxMjA4MWIwOTA0NTk3ZDgxNmY=/g7/football2ukraine.m3u8?token=NDQ0MmQzMDFhOWZhYjgxMjA4MWIwOTA0NTk3ZDgxNmY=&id=NWFkNDlmYjFjOGMzZDI5MTE3YzcxM2VmZmE4ZDg2YzQ=&vip=1604860382&dip=MTgyZDZmYjVlZDRjOTg2ZjkxNTZlMzAwNzc2MzNkZjk=&pip=YTU1N2Y2NjZhMTEzMTdiYWM1NWUyMmE3MTM0ODhhZjI=&hip=ZjVhYjg4ZmNhZTAxZTgyYzE2MTAxYTQyNDc4ZWFkMjE=
 
-#EXTINF:-1, S Sport 1 HD
-http://89.187.169.206:2200/EX/SMART_SPOR_HD-tr/index.m3u8?token=RED_WaQaGviiEc9I0Y86tsYkKQ==,1604966691.1515923156&t=1&s=1&p=1&c=BR&r=65
 
-#EXTINF:-1, S Sport 2 HD
-http://195.181.172.83:2200/EX/S_SPORT_2_FHD-tr/index.m3u8?token=RED_OBFnPssYicft10OCstkdhw==,1604966756.1515923156&t=1&s=1&p=1&c=BR&r=65
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1, BT Sport 1 HD
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -251,16 +251,16 @@ https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1, BT Sport 3 HD
-http://89.187.169.206:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=RED_45GnSItWzuyobDofk2aoSw==,1604967019.1515923156&t=1&s=1&p=1&c=BR&r=65
+http://89.187.169.206:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=RED_V89p4QYhV-QS_9eIORgY-A==,1605057219.1515923156&t=1&s=1&p=1&c=MA&r=65
 
 #EXTINF:-1, BT Sport ESPN HD
-http://89.187.169.203:2200/EX/BT_Sport_ESPN_HD-uk/index.m3u8?token=RED_1j5LKrU72IbrzKjz8F-X6w==,1604967461.1515923156&t=1&s=1&p=1&c=BR&r=65
+http://89.187.169.203:2200/EX/BT_Sport_ESPN_HD-uk/index.m3u8?token=RED_uacVYwVnHlEV0ux5wdLnPw==,1605057246.1515923156&t=1&s=1&p=1&c=MA&r=65
 
-#EXTINF:-1, Sport klub 1 HD
-https://sportbar.biz/lba/NGI3M2QwOTkwYzlhMjcyNGM0NGZlODYzZTAyZGQ1M2Y=/g5/sportklub1rs.m3u8?token=NGI3M2QwOTkwYzlhMjcyNGM0NGZlODYzZTAyZGQ1M2Y=&id=ZWMwZjM2MDRkZWU2MGE0MDAzOTFiM2E2NGZlYzI4MWE=&vip=1604895541&dip=ZGJiMzZiNzdkM2YzYWIxN2Q5NjcxZWRiMjQ2OWYxMzA=&pip=YTU1N2Y2NjZhMTEzMTdiYWM1NWUyMmE3MTM0ODhhZjI=&hip=ZjVhYjg4ZmNhZTAxZTgyYzE2MTAxYTQyNDc4ZWFkMjE=
 
-#EXTINF:-1, Sport klub 2 HD
-https://sportbar.biz/lba/MjFiMjVmZDg0ZmUzNjgxZWI3Y2I2MzUzMDFlZmE2Yjc=/g1/sk2serbia.m3u8?token=MjFiMjVmZDg0ZmUzNjgxZWI3Y2I2MzUzMDFlZmE2Yjc=&id=ZjFmMmI2M2RhZDI4ZjMyZWZkNzg2YjdhNjM3MGU2NjY=&vip=1604895595&dip=MTliZGI0ZmJhZjQ4MzE0NmQ3YzE3NzZlODI1YjJhOGY=&pip=YTU1N2Y2NjZhMTEzMTdiYWM1NWUyMmE3MTM0ODhhZjI=&hip=ZjVhYjg4ZmNhZTAxZTgyYzE2MTAxYTQyNDc4ZWFkMjE=
+
+
+
+
 
 
 
