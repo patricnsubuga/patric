@@ -60,7 +60,7 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pIuJqYk.png", Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", CGTN Documentary
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png", CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", Sony Movies
@@ -80,7 +80,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png", Newsmax TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p5rREUo.png", Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
@@ -148,7 +147,7 @@ https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
 #EXTINF:0 tvg-logo="https://epg.iptvx.one/icn/bbc.png", BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
 
-#EXTINF:0, Voice of America 
+#EXTINF:0 tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png", Voice of America 
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
 #EXTINF:0 tvg-logo="https://epg.iptvx.one/icn/nickelodeon-hd.png", Nickelodeon hd
