@@ -33,16 +33,16 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1, CGTN
+#EXTINF:-1 tvg-logo, CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1, Arirang
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/arirang.png", Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 
-#EXTINF:-1, Bloomberg 
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bloomberg.png", Bloomberg 
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", Cheddar
@@ -99,7 +99,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg", Red Bull TV
 https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
 
-#EXTINF:-1, Al Jazeera International
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/al-jazeera-international.png", Al Jazeera International
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://sonyvueimgs.akamaized.net/epg-images/channel/26590/cheddar_business_440x330_NETWORK_LARGE_440_330.png", Cheddar
@@ -178,28 +178,28 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eNPIQ9f.png", BBC News 
 http://51.52.156.22:8888/http/004
 
-#EXTINF:-1, Bein Sport 1 HD 
+#EXTINF:-1 tvg-log="https://epg.iptvx.one/icn/bein-sport-1.png", Bein Sport 1 HD 
 http://185.246.210.53:2200/EX/bein1hd-ar/index.m3u8?token=RED_rCZ7d4KQZqE3E8_qpTNMRA==,1605056813.1515923156&t=1&s=1&p=1&c=MA&r=65
 
-#EXTINF:-1, Bein Sport 2 HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bein-sport-2.png", Bein Sport 2 HD
 http://185.246.210.54:2200/EX/bein2hd-ar/index.m3u8?token=RED_ffW8kYJAuilUzNN6gXzB5w==,1605056854.1515923156&t=1&s=1&p=1&c=MA&r=65
 
-#EXTINF:-1, Bein Sport 3 HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bein-sport-3.png", Bein Sport 3 HD
 http://185.246.210.53:2200/EX/bein3hd-ar/index.m3u8?token=RED_HWrOmJVAJkDNrzfuqDpHpw==,1605056877.1515923156&t=1&s=1&p=1&c=MA&r=65
 
-#EXTINF:-1, Bein Sport 4 HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bein-sport-4.png", Bein Sport 4 HD
 http://185.93.2.153:2200/EX/bein4hd-ar/index.m3u8?token=RED_LzWQtV7zo5pxRoeRl3UAqw==,1605059324.1515923156&t=1&s=1&p=1&c=MA&r=65
 
-#EXTINF:-1, Bein Sport 5 HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bein-sport-5.png", Bein Sport 5 HD
 http://89.187.169.203:2200/EX/bein5hd-ar/index.m3u8?token=RED_TdFUL9NhgpxzOyndjZnhlQ==,1605056952.1515923156&t=1&s=1&p=1&c=MA&r=65
 
-#EXTINF:-1, Bein Sport 6 HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bein-sport-6.png", Bein Sport 6 HD
 http://185.59.222.171:2200/EX/bein6hd-ar/index.m3u8?token=RED_NOQ4koj5sZQrF2fD1ZFd8g==,1605056982.1515923156&t=1&s=1&p=1&c=MA&r=65
 
-#EXTINF:-1, Bein Sport 7 HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bein-sport-7.png", Bein Sport 7 HD
 http://89.187.169.204:2200/EX/bein7hd-ar/index.m3u8?token=RED_yRoT73a3Vc0NA8vbBGmo7g==,1605057028.1515923156&t=1&s=1&p=1&c=MA&r=65
 
-#EXTINF:-1, Bein Sport 8 HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bein-sport-8.png", Bein Sport 8 HD
 http://89.187.169.203:2200/EX/bein8hd-ar/index.m3u8?token=RED_EAdJDGOMKq6QYZXc9pW8NQ==,1605057056.1515923156&t=1&s=1&p=1&c=MA&r=65
 
 #EXTINF:-1, True Premier Football 1
@@ -214,16 +214,16 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m
 #EXTINF:-1, NEWMAX BOX OFFICE TV HD
 https://vsd98.mycdn.me/hls/531854789280.m3u8/sig/ZX57Kls10O0/expires/1605083843972/srcIp/41.75.190.44/clientType/0/srcAg/CHROME/mid/1291064647328/video.m3u8?p&quot;,&quot;hlsPlaybackMasterPlaylistUrl&quot;:&quot;https://vsd98.mycdn.me/hls/531854789280_offset_p.m3u8/sig/ZX57Kls10O0/expires/1605083843972/srcIp/41.75.190.44/clientType/0/srcAg/CHROME/mid/1291064647328/video.m3u8
 
-#EXTINF:-1, BT Sport 1 HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bt-sport1.png", BT Sport 1 HD
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
-#EXTINF:-1, BT Sport 2 HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bt-sport2.png", BT Sport 2 HD
 https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-#EXTINF:-1, BT Sport 3 HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bt-sport3.png", BT Sport 3 HD
 http://89.187.169.206:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=RED_V89p4QYhV-QS_9eIORgY-A==,1605057219.1515923156&t=1&s=1&p=1&c=MA&r=65
 
-#EXTINF:-1, BT Sport ESPN HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bt-sport-espn.png", BT Sport ESPN HD
 http://89.187.169.203:2200/EX/BT_Sport_ESPN_HD-uk/index.m3u8?token=RED_uacVYwVnHlEV0ux5wdLnPw==,1605057246.1515923156&t=1&s=1&p=1&c=MA&r=65
 
 
