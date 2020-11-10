@@ -75,9 +75,6 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", News Max
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/", Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 
@@ -205,15 +202,6 @@ http://89.187.169.204:2200/EX/bein7hd-ar/index.m3u8?token=RED_yRoT73a3Vc0NA8vbBG
 #EXTINF:-1, Bein Sport 8 HD
 http://89.187.169.203:2200/EX/bein8hd-ar/index.m3u8?token=RED_EAdJDGOMKq6QYZXc9pW8NQ==,1605057056.1515923156&t=1&s=1&p=1&c=MA&r=65
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1, True Premier Football 1
 https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
 
@@ -225,24 +213,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m
 
 #EXTINF:-1, NEWMAX BOX OFFICE TV HD
 https://vsd98.mycdn.me/hls/531854789280.m3u8/sig/ZX57Kls10O0/expires/1605083843972/srcIp/41.75.190.44/clientType/0/srcAg/CHROME/mid/1291064647328/video.m3u8?p&quot;,&quot;hlsPlaybackMasterPlaylistUrl&quot;:&quot;https://vsd98.mycdn.me/hls/531854789280_offset_p.m3u8/sig/ZX57Kls10O0/expires/1605083843972/srcIp/41.75.190.44/clientType/0/srcAg/CHROME/mid/1291064647328/video.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1, BT Sport 1 HD
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
