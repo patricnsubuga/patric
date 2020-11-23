@@ -198,17 +198,8 @@ http://185.93.2.153:2200/EX/bein4hd-ar/index.m3u8?token=RED_LzWQtV7zo5pxRoeRl3UA
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bein-sport-5.png", Bein Sport 5 HD
 http://89.187.169.203:2200/EX/bein5hd-ar/index.m3u8?token=RED_TdFUL9NhgpxzOyndjZnhlQ==,1605056952.1515923156&t=1&s=1&p=1&c=MA&r=65
 
-#EXTINF:-1, True Premier Football 1
-https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
-
-#EXTINF:-1,  True Premier Football 2
-https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9TbpsS0.png", CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
-
-#EXTINF:-1, NEWMAX BOX OFFICE TV HD
-https://vsd98.mycdn.me/hls/531854789280.m3u8/sig/ZX57Kls10O0/expires/1605083843972/srcIp/41.75.190.44/clientType/0/srcAg/CHROME/mid/1291064647328/video.m3u8?p&quot;,&quot;hlsPlaybackMasterPlaylistUrl&quot;:&quot;https://vsd98.mycdn.me/hls/531854789280_offset_p.m3u8/sig/ZX57Kls10O0/expires/1605083843972/srcIp/41.75.190.44/clientType/0/srcAg/CHROME/mid/1291064647328/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/bt-sport1.png", BT Sport 1 HD
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -231,6 +222,11 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png", BEK SPORT WEST
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 
+#EXTINF:0,Da Vinci
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+
+#EXTINF:-1,Da Vinci Learning
+http://188.93.95.83/davinci/index.m3u8
 
 
 
